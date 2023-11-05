@@ -10,5 +10,5 @@ https://youtube.com/shorts/lh_cNUqyG90?feature=share
 ## 图像和lasercutting文件  
 ![image](https://github.com/wenxiwei00/ATmega32U4--potentiometer-servo/assets/114196821/6df534b6-ec9c-486e-a833-599057849a49)  
 ![image](https://github.com/wenxiwei00/ATmega32U4--potentiometer-servo/assets/114196821/474c3016-fb5d-40c1-b52b-10951ed5c4fd)  
-step链接：https://pan.baidu.com/s/1BoVLfPbpvGCTpOq3oOsuxQ?pwd=womk   
+百度网盘：https://pan.baidu.com/s/1BoVLfPbpvGCTpOq3oOsuxQ?pwd=womk   
 提取码：womk
