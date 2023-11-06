@@ -4,6 +4,9 @@
 ## 项目效果如下视频：  
 https://youtube.com/shorts/lh_cNUqyG90?feature=share  
 
+## 提示：  
+看完ATmega32U4--ADC_potentiometer2这一篇之后，本文会更好理解
+
 ## 电路图：  
 ![image](https://github.com/wenxiwei00/ATmega32U4--potentiometer-servo/assets/114196821/184dec57-472b-47ef-9a96-4766a6a46108)  
 
